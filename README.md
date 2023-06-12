@@ -1,4 +1,4 @@
-# Alfred Sidecar Workflow
+# <img src='https://github.com/kovstas/alfred-sidecar/raw/main/icon.png' width='30px'> Alfred Sidecar Workflow
 
 This Alfred workflow allows you to quickly connect your iPad as a Sidecar display using the `sc` command.
 
