@@ -10,7 +10,7 @@ This Alfred workflow allows you to quickly connect your iPad as a Sidecar displa
 
 ## Installation
 
-1. Download the latest release of the workflow from the [releases page](https://github.com/your-username/alfred-sidecar/releases).
+1. Download the latest release of the workflow from the [releases page](https://github.com/kovstas/alfred-sidecar/releases).
 2. Double-click the downloaded `.alfredworkflow` file to install the workflow in Alfred.
 
 ## Usage
