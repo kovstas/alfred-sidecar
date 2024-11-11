@@ -22,7 +22,7 @@ tell application "System Events"
 
 
         tell menu 1 of popUpButton
-            set menuItem to (first menu item whose name contains device)
+            set menuItem to (first menu item whose name contains device and value of attribute "AXIdentifier" is "airplayvideo")
 
             -- Wait for the menu item to appear
             repeat until exists menuItem
