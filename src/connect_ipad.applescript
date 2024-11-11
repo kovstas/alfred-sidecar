@@ -3,7 +3,7 @@ do shell script "open -b com.apple.systempreferences /System/Library/PreferenceP
 set device to (system attribute "Device_Name")
 
 tell application "System Events"
-    repeat until (exists window "Displays" of application process "System Settings")
+    repeat until (exists window 1 of application process "System Settings")
         delay 0.1
     end repeat
 
