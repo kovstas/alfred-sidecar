@@ -8,7 +8,7 @@ tell application "System Events"
     end repeat
 
     tell process "System Settings"
-        set popUpButton to pop up button 1 of group 1 of group 2 of splitter group 1 of group 1 of window "Displays"
+        set popUpButton to pop up button 1 of group 1 of group 2 of splitter group 1 of group 1 of window 1
         
         repeat until exists popUpButton
             delay 0.1
