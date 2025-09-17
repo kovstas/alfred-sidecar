@@ -4,7 +4,7 @@ This Alfred workflow allows you to quickly connect your iPad as a Sidecar displa
 
 ## Requirements
 
-- macOS Ventura or later
+- macOS 26 (Tahoe) or later (for older versions use v1.4)
 - iPadOS 14 or later
 - Alfred 5 or later
 
